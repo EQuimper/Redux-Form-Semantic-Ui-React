@@ -1,0 +1,33 @@
+{
+  "name": "redux-form-semantic-ui-react",
+  "version": "0.0.1",
+  "description": "Redux-Form wrapper for Semantic-Ui-React",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EQuimper/Redux-Form-Semantic-Ui-React"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "semantic-ui",
+    "redux",
+    "redux-form",
+    "redux-form-semantic-ui"
+  ],
+  "author": "Emanuel Quimper <quimperemanuel@gmail.com> (http://github.com/EQuimper)",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "redux-form": "^6.4.3",
+    "semantic-ui-react": "^0.63.5"
+  },
+  "peerDependencies": {
+    "react": "^15.4.1",
+    "redux-form": "^6.4.3"
+  },
+  "npmName": "redux-form-semantic-ui-react"
+}

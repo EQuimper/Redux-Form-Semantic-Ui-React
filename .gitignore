@@ -1,1 +1,8 @@
 node_modules/
+yarn.lock
+.vscode/
+coverage
+dist
+lib
+npm-debug.log
+.DS_Store

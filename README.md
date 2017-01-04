@@ -1,4 +1,4 @@
-# Redux-Form-Semantic-Ui-React
+# Redux-Form-Semantic-Ui-React (NOT READY YET ⚠️ 🚧)
 
 ## Installation
 
